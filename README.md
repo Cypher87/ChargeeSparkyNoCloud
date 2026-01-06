@@ -1,6 +1,6 @@
 # ChargeeSparkyNoCloud
 
-Chargee Sparky DSMR reader without for Home Assistant without cloud access
+Chargee Sparky DSMR reader for Home Assistant without cloud access
 
 ## WARNING! Flashing this code will remove any existing code. You will not be able to revert back to the stock firmware.
 
